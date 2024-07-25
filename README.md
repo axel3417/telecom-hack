@@ -2,6 +2,16 @@
 this is my project for hacking a telecom ADSL2+ Wi-Fi N Modem from Technicolor 
 Have fun replying it!
 
+# Requierements 
+1) telecom ADSL2+ Wi-Fi N Modem from Technicolor
+2) CH341
+3) CH341 software (https://github.com/YTEC-info/CH341A-Softwares)
+4) Soldering iron or hot air gun
+5) Solder wick
+6) solder paste
+
+#Modem
+
 bottom cover
 ![3](https://github.com/user-attachments/assets/3138abf7-c5fa-4983-afd9-a24003660f4c)
 
